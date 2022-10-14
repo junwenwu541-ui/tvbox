@@ -344,7 +344,7 @@
             "request":{
                 "method":"GET",
                 "url":{
-                    "raw":"https://doubans.herokuapp.com/search?q={name}&limit=1"
+                    "raw":"https://douban.cyao.repl.co/search?q={name}&limit=1"
                 }
             },
             "response":{
