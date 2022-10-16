@@ -2,13 +2,13 @@
     "spider":"https://f.cyao.tk/jar/0902.jar;md5;D2DED0D4B8B12B325BFCD3B7D1ECD3EA",
     "sites":[
         {
-            "key":"厂长资源",
-            "name":"厂长资源",
+            "key":"LiteApple",
+            "name":"小苹果(LiteApple)",
             "type":3,
-            "api":"csp_Czsapp",
+            "api":"csp_LiteApple",
             "searchable":1,
             "quickSearch":1,
-            "filterable":0
+            "filterable":1
         },
         {
             "key":"江湖官采",
@@ -95,6 +95,16 @@
             "ext":"https://f.cyao.tk/ext/zxzj.json"
         },
         {
+            "key":"厂长资源",
+            "name":"厂长资源(XP)",
+            "type":3,
+            "api":"csp_XPath",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://f.cyao.tk/ext/czspp.json"
+        },
+        {
             "key":"完美看看",
             "name":"完美看看(XP)",
             "type":3,
@@ -153,15 +163,6 @@
             "quickSearch":1,
             "filterable":0,
             "ext":"https://f.cyao.tk/ext/dm84.json"
-        },
-        {
-            "key":"LiteApple",
-            "name":"小苹果(LiteApple)",
-            "type":3,
-            "api":"csp_LiteApple",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
         },
         {
             "key":"哔哩哔哩",
