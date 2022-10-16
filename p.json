@@ -1,14 +1,14 @@
 {
-    "spider":"https://f.cyao.tk/jar/0902.jar;md5;D2DED0D4B8B12B325BFCD3B7D1ECD3EA",
+    "spider":"https://f.cyao.tk/jar/1012.jar;md5;9CCFE8DA710559ABE8740B0CAE723F39",
     "sites":[
         {
-            "key":"LiteApple",
-            "name":"小苹果",
+            "key":"低端影视",
+            "name":"低端影视",
             "type":3,
-            "api":"csp_LiteApple",
+            "api":"csp_Ddrk",
             "searchable":1,
             "quickSearch":1,
-            "filterable":1
+            "filterable":0
         },
         {
             "key":"江湖官采",
@@ -25,8 +25,7 @@
             "api":"csp_Kunyu77",
             "searchable":1,
             "quickSearch":1,
-            "filterable":1,
-            "jar":"https://f.cyao.tk/jar/77.jar;md5;5F6A69AC1B85BC9F4FC3B352009C6739"
+            "filterable":1
         },
         {
             "key":"快看资源",
@@ -36,6 +35,34 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1
+        },
+        {
+            "key":"图图影视",
+            "name":"图图影视",
+            "type":3,
+            "api":"csp_AppTT",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"农民影视",
+            "name":"农民影视",
+            "type":3,
+            "api":"csp_Nmys",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://f.cyao.tk/ext/Nmys.json"
+        },
+        {
+            "key":"乐猪影视",
+            "name":"乐猪影视",
+            "api":"csp_Lezhu",
+            "type":3,
+            "filterable":1,
+            "quickSearch":1,
+            "searchable":1
         },
         {
             "key":"量子资源",
@@ -163,6 +190,15 @@
             "quickSearch":1,
             "filterable":0,
             "ext":"https://f.cyao.tk/ext/dm84.json"
+        },
+        {
+            "key":"LiteApple",
+            "name":"小苹果(LiteApple)",
+            "type":3,
+            "api":"csp_LiteApple",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
         },
         {
             "key":"哔哩哔哩",
