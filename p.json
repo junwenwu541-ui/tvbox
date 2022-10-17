@@ -55,6 +55,16 @@
             "filterable":1
         },
         {
+            "key":"农民影视",
+            "name":"农民影视",
+            "type":3,
+            "api":"csp_Nmys",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://f.cyao.tk/ext/Nmys.json"
+        },
+        {
             "key":"乐猪影视",
             "name":"乐猪影视",
             "api":"csp_Lezhu",
@@ -388,26 +398,6 @@
                     {
                         "key":"rating",
                         "value":"rating"
-                    }
-                ]
-            }
-        }
-    ],
-    "hotSearch":[
-        {
-            "name":"360kan",
-            "request":{
-                "method":"GET",
-                "url":{
-                    "raw":"https://api.web.360kan.com/v1/rank?cat=1"
-                }
-            },
-            "response":{
-                "result":"$.data",
-                "data":[
-                    {
-                        "key":"keyword",
-                        "value":"title"
                     }
                 ]
             }
