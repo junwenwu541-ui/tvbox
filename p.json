@@ -1,5 +1,5 @@
 {
-    "spider":"https://f.cyao.tk/jar/1012.jar;md5;9CCFE8DA710559ABE8740B0CAE723F39",
+    "spider":"https://f.cyao.tk/jar/Yoursmile.jar;md5;50F526FE9C971FB1AC5AD1840289A040",
     "sites":[
         {
             "key":"低端影视",
@@ -23,15 +23,6 @@
             "name":"酷云七七",
             "type":3,
             "api":"csp_Kunyu77",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
-            "key":"快看资源",
-            "name":"快看资源",
-            "type":3,
-            "api":"csp_Kuaikan",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
@@ -254,7 +245,7 @@
             "key":"T4",
             "name":"开始观看(T4)",
             "type":4,
-            "api":"https://t4.secan.icu/vod?sites=all&ali_token=8f0b3f0dc1834f309f077ea5549e99a8&timeout=5",
+            "api":"https://t4.secan.icu/vod?sites=all&ali_token=81461f2e9d0b4ffb86612db403824b8a&timeout=5",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
@@ -267,7 +258,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"8f0b3f0dc1834f309f077ea5549e99a8"
+            "ext":"https://f.cyao.tk/token.txt"
         },
         {
             "key":"猫狸盘搜",
@@ -277,7 +268,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"8f0b3f0dc1834f309f077ea5549e99a8"
+            "ext":"https://f.cyao.tk/token.txt"
         }
     ],
     "lives":[

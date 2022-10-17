@@ -12,6 +12,8 @@
 
 <https://raw.iqiq.io/liu673cn/box/main/m.json>
 
+<https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json>
+
 ## PlutoPlayer [直接下载](http://g.cyao.ml/app/pluto.apk) [123云盘](https://www.123pan.com/s/RLY9-YZ3pH)
 
 <https://f.cyao.tk/p.json>
