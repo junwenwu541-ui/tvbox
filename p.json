@@ -2,6 +2,15 @@
     "spider":"https://f.cyao.tk/jar/Yoursmile.jar;md5;50F526FE9C971FB1AC5AD1840289A040",
     "sites":[
         {
+            "key":"影视推荐",
+            "name":"影视推荐",
+            "type":4,
+            "api":"http://top.fuqizhishi.com/vod",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
             "key":"低端影视",
             "name":"低端影视",
             "type":3,
@@ -35,16 +44,6 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1
-        },
-        {
-            "key":"农民影视",
-            "name":"农民影视",
-            "type":3,
-            "api":"csp_Nmys",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://f.cyao.tk/ext/Nmys.json"
         },
         {
             "key":"乐猪影视",
