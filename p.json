@@ -83,6 +83,15 @@
             "quickSearch":1
         },
         {
+            "key":"新浪资源",
+            "name":"新浪资源",
+            "type":1,
+            "api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+            "playUrl":"",
+            "searchable":1,
+            "quickSearch":1
+        },
+        {
             "key":"飘花资源",
             "name":"飘花资源",
             "type":1,
