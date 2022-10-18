@@ -253,7 +253,7 @@
             "key":"T4",
             "name":"开始观看(T4)",
             "type":4,
-            "api":"https://t4.secan.icu/vod?sites=all&ali_token=81461f2e9d0b4ffb86612db403824b8a&timeout=5",
+            "api":"https://t4.secan.icu/vod?sites=all&ali_token=f6fcd2d1c0e54601805413721d89e0ca&timeout=5",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
@@ -266,7 +266,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://f.cyao.tk/token.txt"
+            "ext":"f6fcd2d1c0e54601805413721d89e0ca"
         },
         {
             "key":"猫狸盘搜",
@@ -276,7 +276,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://f.cyao.tk/token.txt"
+            "ext":"f6fcd2d1c0e54601805413721d89e0ca"
         }
     ],
     "lives":[
