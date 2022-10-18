@@ -323,6 +323,11 @@
             }
         },
         {
+            "name":"ggtv",
+            "type":1,
+            "url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
+        },
+        {
             "name":"jhjson",
             "type":1,
             "url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="
