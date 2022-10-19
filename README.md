@@ -4,11 +4,11 @@
 
 ## TVBox [直接下载](http://g.cyao.ml/app/tvbox.apk) [123云盘](https://www.123pan.com/s/RLY9-sS3pH) [分享迷](https://www.fenxm.com/842.html)
 
+####配置地址选一个输入 [也可以下载本地接口文件](http://g.cyao.ml/tvbox.zip)
+
 <https://f.cyao.tk/n.json>
 
 <http://byyds.top/w.txt>
-
-<http://g.cyao.ml/tvbox.zip>
 
 <https://raw.iqiq.io/liu673cn/box/main/m.json>
 
