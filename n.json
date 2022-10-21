@@ -333,6 +333,11 @@
             "url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="
         },
         {
+            "name":"rxjx",
+            "type":1,
+            "url":"http://rxjx.kuanjv.com/allm3u8.php?url="
+        },
+        {
             "name":"parwix",
             "type":0,
             "url":"https://jx.bozrc.com:4433/player/?url="
