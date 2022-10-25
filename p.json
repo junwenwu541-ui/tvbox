@@ -274,17 +274,17 @@
             "api":"csp_Gitcafe",
             "searchable":1,
             "quickSearch":1,
-            "filterable":1,
+            "filterable":0,
             "ext":"f6fcd2d1c0e54601805413721d89e0ca"
         },
         {
-            "key":"猫狸盘搜",
-            "name":"猫狸盘搜(云盘)",
+            "key":"Zhaozy",
+            "name":"找资源(云盘)",
             "type":3,
-            "api":" csp_AliPS",
+            "api":"csp_Zhaozy",
             "searchable":1,
             "quickSearch":1,
-            "filterable":1,
+            "filterable":0,
             "ext":"f6fcd2d1c0e54601805413721d89e0ca"
         }
     ],
