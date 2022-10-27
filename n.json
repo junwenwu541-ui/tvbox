@@ -5,7 +5,7 @@
             "key":"影视推荐",
             "name":"影视推荐",
             "type":4,
-            "api":"http://top.fuqizhishi.com/vod",
+            "api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=f6fcd2d1c0e54601805413721d89e0ca&timeout=5",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
@@ -283,15 +283,6 @@
             "quickSearch":0,
             "filterable":1,
             "ext":"https://f.cyao.tk/ext/Bili_gq.json"
-        },
-        {
-            "key":"T4",
-            "name":"开始观看(T4)",
-            "type":4,
-            "api":"https://t4.secan.icu/vod?sites=all&ali_token=f6fcd2d1c0e54601805413721d89e0ca&timeout=5",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
         },
         {
             "key":"Gitcafe",
