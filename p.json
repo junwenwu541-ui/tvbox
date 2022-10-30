@@ -56,6 +56,24 @@
             "filterable":1
         },
         {
+            "key":"追剧达人",
+            "name":"追剧达人",
+            "type":3,
+            "api":"csp_Zjdr",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"影视工厂",
+            "name":"影视工厂",
+            "type":3,
+            "api":"csp_Ysgc",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
             "key":"图图影视",
             "name":"图图影视",
             "type":3,
