@@ -2,15 +2,6 @@
     "spider":"https://f.cyao.tk/jar/Yoursmile.jar;md5;AD64799F67735487FD38D154926E58E1",
     "sites":[
         {
-            "key":"影视推荐",
-            "name":"影视推荐",
-            "type":4,
-            "api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=69ddb8566b0f4cfb965278be2d6abd94&timeout=5",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
             "key":"360影视",
             "name":"360影视",
             "type":3,
@@ -350,29 +341,9 @@
             }
         },
         {
-            "name":"rxjx",
-            "type":1,
-            "url":"http://rxjx.kuanjv.com/allm3u8.php?url=",
-            "ext":{
-                "header":{
-                    "User-Agent":"Mozilla/5.0"
-                }
-            }
-        },
-        {
             "name":"cyu0",
             "type":1,
             "url":"https://vip.cyu0.cn/home/api?type=ys&uid=1353484&key=efopqwABCLOTVYZ278&url=",
-            "ext":{
-                "header":{
-                    "User-Agent":"Mozilla/5.0"
-                }
-            }
-        },
-        {
-            "name":"ggtv",
-            "type":1,
-            "url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url=",
             "ext":{
                 "header":{
                     "User-Agent":"Mozilla/5.0"
@@ -390,9 +361,9 @@
             }
         },
         {
-            "name":"chaxun",
+            "name":"aidouer",
             "type":0,
-            "url":"https://chaxun.Truechat365.com/?url=",
+            "url":"https://jx.aidouer.net/?url=",
             "ext":{
                 "header":{
                     "User-Agent":"Mozilla/5.0"
@@ -403,16 +374,6 @@
             "name":"xmflv",
             "type":0,
             "url":"https://dm.xmflv.com:4433/?url=",
-            "ext":{
-                "header":{
-                    "User-Agent":"Mozilla/5.0"
-                }
-            }
-        },
-        {
-            "name":"aidouer",
-            "type":0,
-            "url":"https://jx.aidouer.net/?url=",
             "ext":{
                 "header":{
                     "User-Agent":"Mozilla/5.0"
