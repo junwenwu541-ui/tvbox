@@ -18,15 +18,21 @@
 
 <https://f.cyao.tk/p.json>
 
+## 盒子软件 [分享迷](https://www.fenxm.com/tv)
+
+[PuffinTV浏览器](https://cyao.lanzouy.com/iUuuH08lt6kf)
+
+[飞视浏览器](https://cyao.lanzouy.com/irdJv08lt7bc)
+
+[儿歌多多](https://www.fenxm.com/613.html)
+
+[当贝桌面](https://www.fenxm.com/626.html)
+
+[蛮荒桌面](https://www.fenxm.com/877.html)
+
 ## BiuBiu播放器 [蓝奏云盘](https://cyao.lanzouu.com/iCONz06ruybe) [分享迷](https://www.fenxm.com/806.html)   
 
-<https://f.cyao.tk/biubiu/bb.json>
-
 <https://pastebin.com/raw/4YZDxuEX>
-
-<https://raw.iqiq.io/cyao2q/files/master/biubiu/bb.json>
-
-<https://cdn.jsdelivr.net/gh/cyao2q/files@master/biubiu/bb0622.json>
 
 # Github加速服务
 
