@@ -341,16 +341,6 @@
             }
         },
         {
-            "name":"cyu0",
-            "type":1,
-            "url":"https://vip.cyu0.cn/home/api?type=ys&uid=1353484&key=efopqwABCLOTVYZ278&url=",
-            "ext":{
-                "header":{
-                    "User-Agent":"Mozilla/5.0"
-                }
-            }
-        },
-        {
             "name":"parwix",
             "type":0,
             "url":"https://jx.bozrc.com:4433/player/?url=",
