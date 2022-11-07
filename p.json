@@ -2,15 +2,6 @@
     "spider":"https://f.cyao.tk/jar/Yoursmile.jar;md5;507DF6E3F46153CCF8807B7EF7556976",
     "sites":[
         {
-            "key":"影视推荐",
-            "name":"影视推荐",
-            "type":4,
-            "api":"http://top.fuqizhishi.com/vod",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1
-        },
-        {
             "key":"360影视",
             "name":"360影视",
             "type":3,
