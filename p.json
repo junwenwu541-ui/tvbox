@@ -311,14 +311,14 @@
     ],
     "parses":[
         {
-            "name":"Json并发",
-            "type":2,
-            "url":"Parallel"
-        },
-        {
             "name":"Json轮询",
             "type":2,
             "url":"Sequence"
+        },
+        {
+            "name":"Json并发",
+            "type":2,
+            "url":"Parallel"
         },
         {
             "name":"gotka",
@@ -331,9 +331,9 @@
             }
         },
         {
-            "name":"jhjson",
+            "name":"ckflv",
             "type":1,
-            "url":"http://211.99.99.236:4567/jhjson/ceshi.php?url=",
+            "url":"http://api.ckflv.cn/?url=",
             "ext":{
                 "header":{
                     "User-Agent":"Mozilla/5.0"
@@ -351,9 +351,9 @@
             }
         },
         {
-            "name":"aidouer",
+            "name":"8old",
             "type":0,
-            "url":"https://jx.aidouer.net/?url=",
+            "url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url=",
             "ext":{
                 "header":{
                     "User-Agent":"Mozilla/5.0"
