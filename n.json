@@ -311,14 +311,14 @@
     ],
     "parses":[
         {
-            "name":"Json轮询",
-            "type":2,
-            "url":"Sequence"
-        },
-        {
             "name":"Json并发",
             "type":2,
             "url":"Parallel"
+        },
+        {
+            "name":"Json轮询",
+            "type":2,
+            "url":"Sequence"
         },
         {
             "name":"gotka",
@@ -351,16 +351,6 @@
             }
         },
         {
-            "name":"8old",
-            "type":0,
-            "url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url=",
-            "ext":{
-                "header":{
-                    "User-Agent":"Mozilla/5.0"
-                }
-            }
-        },
-        {
             "name":"xmflv",
             "type":0,
             "url":"https://dm.xmflv.com:4433/?url=",
@@ -384,6 +374,16 @@
             "name":"m2090",
             "type":0,
             "url":"https://m2090.com/?url=",
+            "ext":{
+                "header":{
+                    "User-Agent":"Mozilla/5.0"
+                }
+            }
+        },
+        {
+            "name":"8old",
+            "type":0,
+            "url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url=",
             "ext":{
                 "header":{
                     "User-Agent":"Mozilla/5.0"
