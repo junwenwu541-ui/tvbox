@@ -2,6 +2,15 @@
     "spider":"https://f.cyao.tk/jar/Yoursmile.jar;md5;D20AF2E2B48C0E79BB323709F4DE8B9D",
     "sites":[
         {
+            "key":"影视推荐",
+            "name":"影视推荐",
+            "type":4,
+            "api":"http://top.fuqizhishi.com/vod",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":1
+        },
+        {
             "key":"360影视",
             "name":"360影视",
             "type":3,
@@ -65,6 +74,15 @@
             "filterable":1
         },
         {
+            "key":"利奥影视",
+            "name":"利奥影视",
+            "type":3,
+            "api":"csp_Lib",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
             "key":"图图影视",
             "name":"图图影视",
             "type":3,
@@ -72,6 +90,33 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1
+        },
+        {
+            "key":"乐猪影视",
+            "name":"乐猪影视",
+            "api":"csp_Lezhu",
+            "type":3,
+            "filterable":1,
+            "quickSearch":1,
+            "searchable":1
+        },
+        {
+            "key":"饭团影视",
+            "name":"饭团影视",
+            "api":"csp_Fantuan",
+            "type":3,
+            "filterable":1,
+            "quickSearch":1,
+            "searchable":1
+        },
+        {
+            "key":"南柯电影",
+            "name":"南柯电影",
+            "api":"csp_Nkdy",
+            "type":3,
+            "filterable":1,
+            "quickSearch":1,
+            "searchable":1
         },
         {
             "key":"农民影视",
@@ -82,15 +127,6 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"https://f.cyao.tk/ext/Nmys.json"
-        },
-        {
-            "key":"乐猪影视",
-            "name":"乐猪影视",
-            "api":"csp_Lezhu",
-            "type":3,
-            "filterable":1,
-            "quickSearch":1,
-            "searchable":1
         },
         {
             "key":"量子资源",
