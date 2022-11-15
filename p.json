@@ -2,21 +2,21 @@
     "spider":"https://f.cyao.tk/jar/Yoursmile.jar;md5;18D292AD02BAE8D5C6C5192EE6B98811",
     "sites":[
         {
-            "key":"影视推荐",
-            "name":"影视推荐",
-            "type":4,
-            "api":"http://top.fuqizhishi.com/vod",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1
-        },
-        {
             "key":"360影视",
             "name":"360影视",
             "type":3,
             "api":"csp_SP360",
             "searchable":1,
             "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"影视推荐",
+            "name":"影视推荐",
+            "type":4,
+            "api":"http://top.fuqizhishi.com/vod",
+            "searchable":0,
+            "quickSearch":0,
             "filterable":1
         },
         {
