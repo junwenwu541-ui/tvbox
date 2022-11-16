@@ -14,7 +14,7 @@
             "key":"影视推荐",
             "name":"影视推荐",
             "type":4,
-            "api":"http://top.fuqizhishi.com/vod",
+            "api":"https://t4.secan.icu/vod",
             "searchable":0,
             "quickSearch":0,
             "filterable":1
