@@ -357,12 +357,12 @@
             "url":"Sequence"
         },
         {
-            "name":"gotka",
+            "name":"kuanjv",
             "type":1,
-            "url":"http://newjiexi.gotka.top/keyu3.php?url=",
+            "url":"http://rxjx.kuanjv.com/allm3u8.php?url=",
             "ext":{
                 "header":{
-                    "User-Agent":"okhttp/4.1.0"
+                    "User-Agent":"Mozilla/5.0"
                 }
             }
         },
@@ -370,6 +370,16 @@
             "name":"ckflv",
             "type":1,
             "url":"http://api.ckflv.cn/?url=",
+            "ext":{
+                "header":{
+                    "User-Agent":"Mozilla/5.0"
+                }
+            }
+        },
+        {
+            "name":"kxjx",
+            "type":1,
+            "url":"http://pandown.pro/app/kxjx.php?url=",
             "ext":{
                 "header":{
                     "User-Agent":"Mozilla/5.0"
