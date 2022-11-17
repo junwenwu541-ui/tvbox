@@ -56,24 +56,6 @@
             "filterable":1
         },
         {
-            "key":"影视工厂",
-            "name":"影视工厂",
-            "type":3,
-            "api":"csp_Ysgc",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
-            "key":"利奥影视",
-            "name":"利奥影视",
-            "type":3,
-            "api":"csp_Lib",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
             "key":"图图影视",
             "name":"图图影视",
             "type":3,
