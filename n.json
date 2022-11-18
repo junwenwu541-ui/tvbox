@@ -1,5 +1,5 @@
 {
-    "spider":"https://f.cyao.tk/jar/Yoursmile.jar;md5;18D292AD02BAE8D5C6C5192EE6B98811",
+    "spider":"https://f.cyao.tk/jar/Yoursmile.jar;md5;1E6E07374004BDA6568039AAD4E03F4F",
     "sites":[
         {
             "key":"360影视",
@@ -51,6 +51,15 @@
             "name":"追剧达人",
             "type":3,
             "api":"csp_Zjdr",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"利奥影视",
+            "name":"利奥影视",
+            "type":3,
+            "api":"csp_Lib",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
